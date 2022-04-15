@@ -50,6 +50,7 @@ export default function Home() {
           rel='noopener noreferrer'
         >
           Powered by{' '}
+          Lack of inspiration
           <span className={styles.logo}>
             <Image src='/vercel.svg' alt='Vercel Logo' width={72} height={16} />
           </span>
